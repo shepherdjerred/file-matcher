@@ -1,4 +1,6 @@
 # file-matcher
+This is a trivial python script written to help my sister with an auditing task.
+
 Python script to match a list of strings to a list of files.
 
 Sample Output
